@@ -9,11 +9,11 @@ import moment from 'moment-timezone'
 
 //---------[ Añada los numeros a ser Propietario/a ]---------
 
-global.owner = [['5217121649714', 'ＰＲＯＰＩＥＴＡＲＩＯ', true], ['51979334798'], ['595986172767'], ['5215656088756'], ['5217121649714']]
+global.owner = [['584142577312', 'ＰＲＯＰＩＥＴＡＲＩＯ', true], ['582129443583'], ['584125014674'], [''], ['']]
 global.mods = []
 global.prems = []
 //BETA: Si quiere evitar escribir el número que será bot en la consola, agregué desde aquí entonces:
-global.botNumberCode = "" //Ejemplo: +59309090909
+global.botNumberCode = "582129443583" //Ejemplo: +59309090909
 global.confirmCode = "" 
 global.gataJadibts = true //cambia a false Desactivar en "auto-reconexion" de sub-bots
 
@@ -43,7 +43,7 @@ global.author = 'CrxsMods'
 //------------[ Versión | Nombre | cuentas ]------------
 
 global.wm = 'ᴋᴀɴᴛᴜ - ʙᴏᴛ' 
-global.botname = '𝐊𝐚𝐧𝐭𝐮 - 𝐁𝐨𝐭'
+global.botname = 'goku bot'
 global.vs = '1.9.5'
 global.yt = 'https://www.youtube.com/@crxsmods'
 global.tiktok = 'tiktok.com/@rawleys_ofc'
