@@ -87,7 +87,7 @@ global.img2 = 'https://qu.ax/jzhN.jpg'
 
 global.imagen = fs.readFileSync('./Menu2.jpg')
 global.imagen1 = fs.readFileSync('./media/Menu1.jpg')
-global.imagen2 = fs.readFileSync('./media/Menu2.jpg')
+global.imagen = fs.readFileSync('./media/Menu2.jpg');
 global.imagen3 = fs.readFileSync('./media/Menu3.jpg')
 global.imagen4 = fs.readFileSync('./media/Menu4.jpg')
 global.imagen5 = 'https://qu.ax/rULv.jpg'
